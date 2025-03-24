@@ -1,0 +1,6 @@
+@AI_Symtop_checker.ModelService_HostAddress = http://localhost:5121
+
+GET {{AI_Symtop_checker.ModelService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
