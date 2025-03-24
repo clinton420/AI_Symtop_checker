@@ -1,6 +1,0 @@
-@AI_Symtop_checker_HostAddress = http://localhost:5197
-
-GET {{AI_Symtop_checker_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

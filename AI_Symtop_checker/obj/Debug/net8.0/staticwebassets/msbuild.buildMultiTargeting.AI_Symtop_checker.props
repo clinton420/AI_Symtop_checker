@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\AI_Symtop_checker.props" />
-</Project>
